@@ -27,7 +27,7 @@ files:
 
 # Copyright
 
-`tarclean` and `tarsort` are copyright 2017 ikdc <ikdc@mit.edu>
+`tarclean` and `tarsort` are copyright 2017 Lily Chung <cryslith@protonmail.com>
 
 `tarclean` and `tarsort` are available under the MIT license; see the
 `LICENSE` file for more details.
